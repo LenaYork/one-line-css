@@ -5,6 +5,13 @@
     grid-gap: 5px;
 }
 
+
+.pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .box {
     color: #fff;
     text-align: center;
@@ -13,26 +20,26 @@
     font-weight: bold;
 }
 
-.one {
+.forest {
     background-color: #acf4b6;
 }
 
-.two {
+.waterfall {
     background-color: #ffe975;
 }
 
-.three {
+.mountains {
     background-color: #5efffa;
 }
 
-.four {
+.sea {
     background-color: #e6b4fd;
 }
 
-.five {
+.beach {
     background-color: #8dfecd;
 }
 
-.six {
+.desert {
     background-color: #fd9a5c;
 }
